@@ -1,5 +1,5 @@
 'use strict';
-describe('timeTable', function() {
+describe('team-table', function() {
   var $scope;
   var $compile;
   var element;
